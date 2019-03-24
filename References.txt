@@ -1,0 +1,15 @@
+file:///C:/Users/Vincent/ExploratoryDataAnalysis(EDA)/final_project/data-set-options-explore-and-summarize-data-project.pdf
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt
+https://en.wikipedia.org/wiki/Vinho_Verde
+https://xn--vinosenespaa-khb.com/guias/verde/
+https://en.wikipedia.org/wiki/Wine_rating
+https://en.wikipedia.org/wiki/Sweetness_of_wine
+https://en.wikipedia.org/wiki/Sulfur_dioxide#In_winemaking
+https://en.wikipedia.org/wiki/Alcohol_by_volume
+http://www.morethanorganic.com/sulphur-in-the-bottle
+https://en.wikipedia.org/wiki/Ethanol
+https://rstudio-pubs-static.s3.amazonaws.com/228019_f0c39e05758a4a51b435b19dbd321c23.html
+https://stackoverflow.com/questions/23463324/r-add-centroids-to-scatter-plot
+http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/
+http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
+http://www.cookbook-r.com/Graphs/Axes_(ggplot2)/
