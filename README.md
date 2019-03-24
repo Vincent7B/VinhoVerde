@@ -1,2 +1,4 @@
 # VinhoVerde
-Exploratory Data Analysis Project on white Vinho Verde wines
+Exploratory Data Analysis project on white Vinho Verde wines.
+
+
